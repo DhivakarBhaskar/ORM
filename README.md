@@ -38,6 +38,8 @@ from.models import Car,CarAdmin
 admin.site.register(Car,CarAdmin)
 ```
 # OUTPUT
+<img width="1900" height="915" alt="Screenshot 2025-09-20 232646" src="https://github.com/user-attachments/assets/df6dbeb7-fda1-43ad-ba23-3b6164ae30dc" />
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
